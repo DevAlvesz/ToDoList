@@ -7,7 +7,7 @@
 
 ## Visão Geral
 
-Este é um projeto de API para gerenciamento de tarefas (To-Do List) desenvolvido com Java e Spring Boot. Ele permite criar, listar, atualizar e excluir tarefas de maneira simples e eficiente. O banco de dados utilizado é o H2, que roda em memória para facilitar o desenvolvimento e testes.
+Este é um projeto de API para gerenciamento de tarefas (To-Do List) desenvolvido com Java e Spring Boot. Ele permite criar, listar e atualizar tarefas de maneira simples e eficiente. O banco de dados utilizado é o H2, que roda em memória para facilitar o desenvolvimento e testes.
 
 - Criação, visualização e atualização de tarefas.
 - Armazenamento dos dados em um banco de dados H2 em memória.
